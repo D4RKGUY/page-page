@@ -10,3 +10,10 @@ h1, h2, h3 {
     font-style: Italics !important;
     font-weight: BOLD !important;
 }
+img {
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    bottom: 50px;
+    left: 100%;
+}

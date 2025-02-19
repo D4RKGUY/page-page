@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: rgb(207, 255, 4);
+}
+pre {
+    color: skyblue;
+}
+h1, h2, h3 {
+    color: lightgreen !important;
+    font-style: Italics !important;
+    font-weight: BOLD !important;
+}
